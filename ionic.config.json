@@ -1,0 +1,7 @@
+{
+  "name": "vertiscope",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
